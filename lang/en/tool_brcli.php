@@ -38,3 +38,4 @@ Options:
 Example:
     sudo -u www-data /usr/bin/php admin/tool/brcli/restore.php --categoryid=1 --source=/moodle/backup/
 ';
+$string['privacy:metadata'] = 'The CSV with final date grade export plugin does not store any personal data.';
